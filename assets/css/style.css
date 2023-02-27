@@ -15,7 +15,13 @@ body {
 }
 
 #p11:hover {
-    color: aqua;
+    color: purple;
+}
+
+.p12:focus {
+    border-style: double;
+    border-color: aqua;
+    outline: 0;
 }
 
 .p12 {
