@@ -17,3 +17,8 @@ body {
 #p11:hover {
     color: aqua;
 }
+
+.p12 {
+    border-color: purple;
+    border-style: dotted;
+}
